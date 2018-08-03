@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://www.unimicron-suz.com.cn/ios/UnimicronAPP.ipa</string>
+<string>https://www.unimicron-suz.com.cn/ios/Unimicron.ipa</string>
 </dict>
 <dict>		
 <key>kind</key>
@@ -29,7 +29,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>COM.UNIMICRON-SUZ.UNIMICRONAPP</string>
+<string>COM.UNIMICRON.UMTAPP</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
